@@ -1,2 +1,3 @@
-# next.js3
+# next.js
 my first repository
+hi 
